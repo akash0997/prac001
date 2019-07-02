@@ -4,3 +4,7 @@ git clone
 git config user.name
 git push
 git pull
+git merge
+git branch a1
+git commit -d
+git commit -a
